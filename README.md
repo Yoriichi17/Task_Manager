@@ -1,5 +1,3 @@
----
-
 ```
 # 📝 Task Manager
 
@@ -85,8 +83,6 @@ npm start
 ```
 
 The frontend will typically run at `http://localhost:3000` and the backend at `http://localhost:5000` (or your specified port).
-
----
 
 ## 🛠️ Tech Stack
 
