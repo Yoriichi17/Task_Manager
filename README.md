@@ -96,3 +96,8 @@ The frontend will typically run at `http://localhost:3000` and the backend at `h
 ```
 https://www.postman.com/maintenance-cosmologist-12845390/workspace/anirudh/collection/31320871-75074d65-9adf-4b90-a32c-ba9423028710?action=share&creator=31320871
 ```
+## Simple Demo Video
+
+```
+https://www.loom.com/share/c0c1d9c7ec7f428ea33d41cd6f37cdc7?sid=06029a2a-092f-4dff-acd7-62cd90ce7595
+```
