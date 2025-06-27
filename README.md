@@ -90,5 +90,3 @@ The frontend will typically run at `http://localhost:3000` and the backend at `h
 * **Backend**: Node.js, Express, MongoDB, Mongoose
 * **Auth**: JWT-based authentication
 * **Database**: MongoDB (cloud/local)
-
-```
