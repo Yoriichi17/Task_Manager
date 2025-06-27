@@ -7,7 +7,7 @@ A full-stack task management application built with **Node.js**, **Express**, **
 
 ## 📁 Project Structure
 
-```
+
 
 Task\_Manager/
 ├── backend/         # Node.js + Express API
@@ -21,7 +21,7 @@ Task\_Manager/
 │
 └── README.md
 
-````
+
 
 ---
 
